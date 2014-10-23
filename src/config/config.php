@@ -6,7 +6,7 @@ return [
 	'coordinate' => '14.6206379,121.0971397',
 	'zoom' => 15,
 	'type' => 'ROADMAP',
-	'marker' => false
+	'marker' => true
 
 ];
 
