@@ -1,0 +1,4 @@
+# WalisPH Map Plugin 
+
+* * *
+###### CREATED AND DEVELOPED BY WALIS PHILIPPINES
