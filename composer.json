@@ -1,6 +1,7 @@
 {
     "name": "walisph/map",
     "description": "Basic Google Map for Walis Apps",
+    "license": "MIT",
     "authors": [
         {
             "name": "Walis Philippines",
